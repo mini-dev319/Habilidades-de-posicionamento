@@ -1,0 +1,36 @@
+body {
+  background-color:#46414100;
+}
+.color-grid {
+  background-color: black;
+  height: 650px;
+  width: auto;
+  margin: 15px;
+  display: flex; /* Define o conteiner como flexevel */
+  justify-content: center; /* Centraliza horizontalmente */
+  align-items: center; /* Centraliza verticalmente */
+}
+
+.color-box {
+  height: 60px;
+  width: 100px;
+  border-radius: 10px;
+  margin-right:30px;
+}
+
+/*Daqui para baixo nao importa*/
+.color1{
+  background-color: #4CAF5f
+}
+.color2{
+  background-color: rgb(26, 82, 59)
+}
+.color3{
+  background-color: green
+}
+.color4{
+  background-color: hsl(150, 21%, 52%)
+}
+.color5{
+  background-color: red;
+}
